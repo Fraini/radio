@@ -1,0 +1,8 @@
+{
+  "name": "radio",
+  "app_id": "98c8a9d5",
+  "type": "ionic-angular",
+  "integrations": {
+    "cordova": {}
+  }
+}
